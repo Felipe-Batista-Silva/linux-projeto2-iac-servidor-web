@@ -13,7 +13,7 @@ Este projeto tem como objetivo criar um script automatizado para provisionar um 
 ```bash
 sudo bash script.sh
 
-Este script irá:
+## Este script irá:
 
     Atualizar o sistema
 
