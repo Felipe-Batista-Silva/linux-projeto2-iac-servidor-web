@@ -2,6 +2,17 @@
 
 Este projeto tem como objetivo criar um script automatizado para provisionar um servidor Apache e publicar um site simples em uma instância Linux.
 
+
+## Este script irá:
+
+    Atualizar o sistema
+
+    Instalar Apache e unzip
+
+    Baixar um site de exemplo do GitHub
+
+    Publicar o conteúdo em /var/www/html
+
 ## Pré-requisitos
 
 - Instância Linux com acesso à internet
@@ -13,12 +24,3 @@ Este projeto tem como objetivo criar um script automatizado para provisionar um 
 ```bash
 sudo bash script.sh
 
-## Este script irá:
-
-    Atualizar o sistema
-
-    Instalar Apache e unzip
-
-    Baixar um site de exemplo do GitHub
-
-    Publicar o conteúdo em /var/www/html
