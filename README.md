@@ -12,3 +12,13 @@ Este projeto tem como objetivo criar um script automatizado para provisionar um 
 
 ```bash
 sudo bash script.sh
+
+Este script irá:
+
+    Atualizar o sistema
+
+    Instalar Apache e unzip
+
+    Baixar um site de exemplo do GitHub
+
+    Publicar o conteúdo em /var/www/html
